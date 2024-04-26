@@ -1,4 +1,4 @@
- A SIMPLE TASK TRACKER APP USING REACT
+ #A SIMPLE TASK TRACKER APP USING REACT
 
 ## Usage
 
@@ -13,11 +13,11 @@
    ```
 
 3. Run the JSON server (http://localhost:5000):
-```bash
-npm run server
-```
+  ```bash
+  npm run server
+  ```
 
 4. To build for production:
-```bash
-npm run build
-```
+  ```bash
+  npm run build
+  ```
